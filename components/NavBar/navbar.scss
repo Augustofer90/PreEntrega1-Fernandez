@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 110, 255);
+
+    .categorias{
+        display: flex;
+        list-style:  none ;
+        
+    }
+}
